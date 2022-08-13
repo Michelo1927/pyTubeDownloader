@@ -43,9 +43,11 @@ python3 ytDownloader.py "#paste here your link" "#insert here "audio" or "video"
 e.g.
 
 Video Download:
+
 python3 ytDownloader.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ" "video"  
 
-Only-audio Download
+Only-audio Download:
+
 python3 ytDownloader.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ" "audio"  
 
 
