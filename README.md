@@ -1,5 +1,5 @@
 # pyTubeDownloader
-Python script to download video or audio from any YT video.
+Python script to download video or audio from YT.
 
 
 Hi,
